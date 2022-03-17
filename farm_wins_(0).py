@@ -7,7 +7,7 @@ from durakonline import durakonline
 from secrets import token_hex
 from datetime import datetime
 
-MAIN_TOKEN: str = ""
+MAIN_TOKEN: str = "$2a$06$qpU6e9dibKIQ3s7nJHGxSu"
 DEBUG_MODE: bool = False
 PASSWORD: str = "zakovskiy"
 BET: int = 100
